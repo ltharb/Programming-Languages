@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.io.Reader;
 //Levi Harbin
-public class LexicalAnalyser {
+public class LexicalAnalyzer {
 
 			public static void main(String[] args) throws IOException {
 				//Setup for scanning a file in, aswell as using scanner to read each line as it is in the file.
